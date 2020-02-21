@@ -20,3 +20,26 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.profile {
+  float: left;
+  width: 10%;
+  height: auto;
+  margin: 3%;
+}
+
+table td {
+  color: white;
+}
+
+table td a {
+  color: white;
+}
+
+.alink {
+  color: white;
+}
+
+.icon {
+  margin: 3%;
+}
