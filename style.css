@@ -12,6 +12,16 @@ hr {
   border: 1px solid white;
 }
 
+#map {
+  height: 300px;
+  width: 100%;
+}
+
+#map2 {
+  height: 300px;
+  width: 100%;
+}
+
 .bg {
   /* The image used */
   background-image: url("beach-min.jpg");
